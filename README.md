@@ -1,1 +1,2 @@
-# SMX2-M12-A2_JoelBarrantes-XavierConde
+## Hola!  
+### Este repositorio ha sido creado para sincronizarlo con visual studio code
